@@ -1,0 +1,192 @@
+{
+  "main": {
+    "name": "Zayne Lovecraft",
+    "occupation": "Front End Developer",
+    "description": "I eat, sleep and breathe React",
+    "image": "profilepic.jpg",
+    "bio": "Resourceful Front End Web Developer bringing in-depth knowledge of latest technology trends to produce clean website design. Experience handling complex HTML and CSS coding, design and extensions to meet organization's front-facing internet needs. Detail-oriented collaboration with others to define project expectations and demand. Hands-on testing and debugging to address inconsistencies and maintain performance thresholds. Experienced working with teams to produce impactful, leading-edge websites that engage customers and deliver business results. Well-versed in design standards and user preferences.",
+    "contactmessage": "Get in touch with me!",
+    "email": "zayne.mngmt@gmail.com",
+    "phone": "+1 949 867 8321",
+    "address": {
+      "street": "Las Vegas",
+      "city": "Las Vegas",
+      "state": "Nevada",
+      "zip": "89052"
+    },
+    "website": "https://epicdevv.github.io/test/#/",
+    "resumedownload": "https://my.indeed.com/p/zaynel-chos6wo",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCSm3TslJkZBoYs-qFC9G_4Q",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/epic_devv",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/zayne-lovecraft-0ba3a621a/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/script_daddy/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/EpicDevv",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Paradise Valley Community College",
+        "degree": "Undergraduate",
+        "graduated": "Undergrad",
+        "description": "Associates of Science"
+      }
+    ],
+    "work": [
+      {
+        "company": "VEGAS.COM",
+        "title": "Web Developer",
+        "years": "May 2022 - Present",
+        "description": "Worked in a fast-paced cross-functional collaborative team environment, designing and building customer-facing eCommerce web sites for travel and entertainment using HTML, JavaScript, CSS and React. On the back-end, had the opportunity to work on a Java-based booking platform that is moving towards a micro-services architecture. This is full-time on-site position based in Las Vegas"
+      },
+      {
+        "company": "Solocien.com",
+        "title": "Full Stack Web Developer",
+        "years": "Dec 2021 - Present",
+        "description": "Collaborated during development processes to confirm creative proposals and design best practices. Assembled and addressed technical and design requirements, integrating user-facing and front-end elements to maintain web presence effectiveness. Managed full-cycle design tasks, handling phases from conception to completion while maintaining guidelines throughout. Developed customer-facing communications with measurable click-thru rates for marketing conversion tracking. Tested site compatibility across multiple browsers and devices, uncovering and debugging issues and addressing inconsistencies. Wrote clean HTML and CSS code, integrating design, extensions and third-party apps according to web development plans."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "95%"
+      },
+      {
+        "name": "NextJs",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Web Development",
+        "level": "99%"
+      },
+      {
+        "name": "Api Development",
+        "level": "99%"
+      },
+      {
+        "name": "TypeScript",
+        "level": "70%"
+      },
+      {
+        "name": "Rest Api",
+        "level": "99%"
+      },
+      {
+        "name": "Redux",
+        "level": "60%"
+      },
+      {
+        "name": "Node Js",
+        "level": "90%"
+      },
+      {
+        "name": "Supabase",
+        "level": "100%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+
+      
+      
+      {
+        "title": "Client hotel booking Site Nextjs",
+        "category": "",
+        "image": "sol.png",
+        "url": "https://www.solocienadventures.com/"
+      },
+      {
+        "title": "Single Product Landing Page Nextjs",
+        "category": "",
+        "image": "splp.png",
+        "url": "https://interview-project-theta.vercel.app/"
+      },
+      {
+        "title": "Supabase Photo Bucket App Nextjs",
+        "category": "",
+        "image": "pb.png",
+        "url": "https://photo-bucket.vercel.app/"
+      },
+      {
+        "title": "Interview Project nextjs",
+        "category": "",
+        "image": "vegas.png",
+        "url": "https://vegas-interview-project.vercel.app/"
+      },
+      {
+        "title": "Airbnb Clone (React JS Next JS)",
+        "category": "",
+        "image": "airbnb.jpg",
+        "url": "https://hotel-app-roan.vercel.app/"
+      },
+      {
+        "title": "PokeDex (React JS)",
+        "category": "",
+        "image": "gmail.jpg",
+        "url": "https://epicdevv.github.io/PokeDex/"
+      },
+      {
+        "title": "FlashType (React JS)",
+        "category": "",
+        "image": "linkedin.jpg",
+        "url": "https://epicdevv.github.io/FlashType/"
+      },
+     
+      {
+        "title": "Name It (React JS)",
+        "category": "",
+        "image": "nameit.jpg",
+        "url": "https://epicdevv.github.io/NameIt/"
+      },
+      {
+        "title": "Old Portfolio (React JS)",
+        "category": "",
+        "image": "snapchat.jpg",
+        "url": "https://epicdevv.github.io/test/#/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Zayne is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Zachary Reed"
+      },
+      {
+        "text": "Learning with Zayne has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Mark Newman"
+      }
+    ]
+  }
+}
